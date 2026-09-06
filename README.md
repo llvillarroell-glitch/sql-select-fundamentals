@@ -1,4 +1,4 @@
-SQL select 
+SQL select fundamentals
 
 Consultas SQL basicas sobre la tabla sales de TechStore, resueltas para el equipo de finanzas.
 
